@@ -1,6 +1,6 @@
 # Before/After Slider Chrome Extension
 
-Create interactive before/after photo comparison sliders. Export as shareable HTML.
+Before/after slider Chrome Extension — create interactive photo comparison sliders and export as shareable HTML.
 
 ## Features
 

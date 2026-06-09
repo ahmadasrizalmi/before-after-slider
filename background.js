@@ -136,6 +136,5 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
 
 // ─── Open Side Panel ──────────────────────────────────────────────
 
-chrome.sidePanel.setPanelBehavior({ openPanelOnActionClick: true }).catch(() => {});
 
 console.log('[Before/After Slider] Background loaded');
